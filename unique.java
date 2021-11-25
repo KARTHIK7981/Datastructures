@@ -9,7 +9,7 @@ public class unique{
                 if(arr[i]==arr[j]) c++;
             }
             if(c==1){
-                System.out.println(arr[i].length);
+                System.out.println(arr[i]);
             }
         }
     }
