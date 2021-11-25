@@ -10,6 +10,6 @@ public class linearsearch{
     public static void main(String args[]){
         int a1[]={1,2,3,4,5,6};
         int key=5;
-        System.out.println(key"linearsearch"a1(a1,key));
+        System.out.println(key+"is found at index"+linearsearch(a1,key));
     }
 }
